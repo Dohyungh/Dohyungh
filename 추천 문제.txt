@@ -1,0 +1,5 @@
+교수님 추천 문제
+
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu 디저트 카페
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo 무선 충전
+https://www.acmicpc.net/problem/14890 경사로
