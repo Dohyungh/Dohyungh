@@ -5,7 +5,7 @@ import inspect
 #글처음에서 끝까지 잘 복붙할 것.
 #ws 에는 -# 가 있고, hw에는 없음.
 #이 파이썬 파일 옆에 .gitignore를 복사해서 놔주세요.
-오늘의_과제 = """온실_Java_10_ws_02:"""
+오늘의_과제 = """온실_Back-end_02_ws_02:"""
 깃랩유저네임 = "bley1217" #user_name
 깃랩이메일 = "bley1217@gmail.com" #user_email
 상위_폴더 = "C:/Users/SSAFY/Desktop/오늘의미션" #directory
@@ -119,7 +119,7 @@ def main():
     request = input("클론 받으려면 \"clone\", 푸시 하려면 \"push\"를 입력하세요. :")
 
     global subject
-    subject = input("과목을 입력하세요. \"Java\"라면, \"java\"를 입력하세요. : ")
+    subject = input("과목을 입력하세요. \"Java\"라면, \"java\"를 입력하세요. \"Back-end\" 라면, \"back_db\"를 입력하세요. : ")
 
     if request == 'clone':
         clone()
