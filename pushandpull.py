@@ -2,16 +2,18 @@ import os
 
 #원하는 directory 를 아래에 적어주세요.
 dir_list = [
-    "C:/Users/SSAFY/Desktop/03_web-front/my-web-front/", # front 수업 자료
-    "C:/Users/SSAFY/Desktop/LUCAS/Lucas-workspace/", # live 수업 java workspace
+    # "C:/Users/SSAFY/Desktop/LUCAS/my-web-front/", # front 수업 자료
+    # "C:/Users/SSAFY/Desktop/LUCAS/my-web-back/", # Back 수업 자료
+    # "C:/Users/SSAFY/Desktop/LUCAS/algorithm/", # Haley쌤 과제
+    "C:/Users/SSAFY/Desktop/LUCAS/Dohyungh/", # Dohyungh
+    # "C:/Users/SSAFY/Desktop/LUCAS/Lucas-workspace/", # live 수업 java workspace
+    "C:/Users/SSAFY/Desktop/LUCAS/Lucas-workspace-STS4/", # live 수업 STS workspace
     "C:/Users/SSAFY/Desktop/LUCAS/Algorithm-workspace/", # 자습용 java workspace
     "C:/Users/SSAFY/Desktop/LUCAS/TIL/", # Live 필기(대부분)
     "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/", # 6630 스터디 자료
-    "C:/Users/SSAFY/Desktop/LUCAS/algorithm/", # Haley쌤 과제
-    "C:/Users/SSAFY/Desktop/LUCAS/04_web-Back/my-web-back/" # Back 수업 자료
-    "C:/Users/SSAFY/Desktop/LUCAS/Dohyungh/" # Dohyungh
+    "C:/Users/SSAFY/Desktop/LUCAS/web-spring/my-web-spring"
 ]
-]
+
 def push():
     count = 0
     for dirs in dir_list :
