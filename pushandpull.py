@@ -6,12 +6,14 @@ dir_list = [
     # "C:/Users/SSAFY/Desktop/LUCAS/my-web-back/", # Back 수업 자료
     # "C:/Users/SSAFY/Desktop/LUCAS/algorithm/", # Haley쌤 과제
     "C:/Users/SSAFY/Desktop/LUCAS/Dohyungh/", # Dohyungh
-    # "C:/Users/SSAFY/Desktop/LUCAS/Lucas-workspace/", # live 수업 java workspace
-    "C:/Users/SSAFY/Desktop/LUCAS/Lucas-workspace-STS4/", # live 수업 STS workspace
+    "C:/Users/SSAFY/Desktop/LUCAS/Lucas-workspace/", # live 수업 java workspace
+    # "C:/Users/SSAFY/Desktop/LUCAS/Lucas-workspace-STS4/", # live 수업 STS workspace
     "C:/Users/SSAFY/Desktop/LUCAS/Algorithm-workspace/", # 자습용 java workspace
     "C:/Users/SSAFY/Desktop/LUCAS/TIL/", # Live 필기(대부분)
     "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/", # 6630 스터디 자료
-    "C:/Users/SSAFY/Desktop/LUCAS/web-spring/my-web-spring"
+    # "C:/Users/SSAFY/Desktop/LUCAS/web-spring/my-web-spring", # live Spring
+    # "C:/Users/SSAFY/Desktop/LUCAS/live-db/my-live-db", # live DB
+    "C:/Users/SSAFY/Desktop/LUCAS/PJT-Clustering-KOSPI200" # 코스피 클러스터링 플젝
 ]
 
 def push():
